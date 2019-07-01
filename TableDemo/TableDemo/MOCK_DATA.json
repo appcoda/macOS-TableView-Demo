@@ -1,0 +1,361 @@
+[{
+    "id": 1,
+    "userInfo": {
+        "id": 1,
+        "username": "csawl0"
+    },
+    "paymentInfo": {
+        "creditCard": "3583661040741934",
+        "creditCardType": "jcb",
+        "amount": "$677.96",
+        "purchaseTypes": [
+            "Garden",
+            "Kids",
+            "Kids",
+            "Games",
+            "Shoes"
+        ]
+    }
+}, {
+    "id": 2,
+    "userInfo": {
+        "id": 2,
+        "username": "klepine1"
+    },
+    "paymentInfo": {
+        "creditCard": "3553012054983531",
+        "creditCardType": "jcb",
+        "amount": "$519.62",
+        "purchaseTypes": [
+            "Music",
+            "Outdoors",
+            "Industrial",
+            "Garden",
+            "Shoes"
+        ]
+    }
+}, {
+    "id": 3,
+    "userInfo": {
+        "id": 3,
+        "username": "lshoulder2"
+    },
+    "paymentInfo": {
+        "creditCard": "3559261003720916",
+        "creditCardType": "jcb",
+        "amount": "$191.51",
+        "purchaseTypes": [
+            "Home",
+            "Movies",
+            "Electronics",
+            "Beauty",
+            "Sports"
+        ]
+    }
+}, {
+    "id": 4,
+    "userInfo": {
+        "id": 4,
+        "username": "amarke3"
+    },
+    "paymentInfo": {
+        "creditCard": "5100134329016120",
+        "creditCardType": "mastercard",
+        "amount": "$907.22",
+        "purchaseTypes": [
+            "Home",
+            "Grocery",
+            "Industrial",
+            "Kids",
+            "Home"
+        ]
+    }
+}, {
+    "id": 5,
+    "userInfo": {
+        "id": 5,
+        "username": "ravrahm4"
+    },
+    "paymentInfo": {
+        "creditCard": "30185777167449",
+        "creditCardType": "diners-club-carte-blanche",
+        "amount": "$594.75",
+        "purchaseTypes": [
+            "Sports",
+            "Toys",
+            "Tools",
+            "Grocery",
+            "Industrial"
+        ]
+    }
+}, {
+    "id": 6,
+    "userInfo": {
+        "id": 6,
+        "username": "aclute5"
+    },
+    "paymentInfo": {
+        "creditCard": "201797242249660",
+        "creditCardType": "diners-club-enroute",
+        "amount": "$244.42",
+        "purchaseTypes": [
+            "Automotive",
+            "Clothing",
+            "Industrial",
+            "Books",
+            "Sports"
+        ]
+    }
+}, {
+    "id": 7,
+    "userInfo": {
+        "id": 7,
+        "username": "vranald6"
+    },
+    "paymentInfo": {
+        "creditCard": "374288694755595",
+        "creditCardType": "americanexpress",
+        "amount": "$924.90",
+        "purchaseTypes": [
+            "Games",
+            "Baby",
+            "Jewelery",
+            "Shoes",
+            "Tools"
+        ]
+    }
+}, {
+    "id": 8,
+    "userInfo": {
+        "id": 8,
+        "username": "pgrigoli7"
+    },
+    "paymentInfo": {
+        "creditCard": "5185049958826276",
+        "creditCardType": "mastercard",
+        "amount": "$428.04",
+        "purchaseTypes": [
+            "Games",
+            "Sports",
+            "Toys",
+            "Health",
+            "Books"
+        ]
+    }
+}, {
+    "id": 9,
+    "userInfo": {
+        "id": 9,
+        "username": "mrampton8"
+    },
+    "paymentInfo": {
+        "creditCard": "6706990033031887",
+        "creditCardType": "laser",
+        "amount": "$196.21",
+        "purchaseTypes": [
+            "Baby",
+            "Health",
+            "Shoes",
+            "Tools",
+            "Jewelery"
+        ]
+    }
+}, {
+    "id": 10,
+    "userInfo": {
+        "id": 10,
+        "username": "cwarcup9"
+    },
+    "paymentInfo": {
+        "creditCard": "6706960100841236302",
+        "creditCardType": "laser",
+        "amount": "$920.39",
+        "purchaseTypes": [
+            "Industrial",
+            "Computers",
+            "Kids",
+            "Health",
+            "Sports"
+        ]
+    }
+}, {
+    "id": 11,
+    "userInfo": {
+        "id": 11,
+        "username": "dlockea"
+    },
+    "paymentInfo": {
+        "creditCard": "201524802429742",
+        "creditCardType": "diners-club-enroute",
+        "amount": "$754.41",
+        "purchaseTypes": [
+            "Electronics",
+            "Music",
+            "Clothing",
+            "Automotive",
+            "Home"
+        ]
+    }
+}, {
+    "id": 12,
+    "userInfo": {
+        "id": 12,
+        "username": "jdunphyb"
+    },
+    "paymentInfo": {
+        "creditCard": "5010127437553736",
+        "creditCardType": "mastercard",
+        "amount": "$779.28",
+        "purchaseTypes": [
+            "Games",
+            "Garden",
+            "Kids",
+            "Garden",
+            "Games"
+        ]
+    }
+}, {
+    "id": 13,
+    "userInfo": {
+        "id": 13,
+        "username": "gmunbyc"
+    },
+    "paymentInfo": {
+        "creditCard": "4017952322568",
+        "creditCardType": "visa",
+        "amount": "$273.33",
+        "purchaseTypes": [
+            "Industrial",
+            "Books",
+            "Grocery",
+            "Outdoors",
+            "Tools"
+        ]
+    }
+}, {
+    "id": 14,
+    "userInfo": {
+        "id": 14,
+        "username": "whurichd"
+    },
+    "paymentInfo": {
+        "creditCard": "3574739713936352",
+        "creditCardType": "jcb",
+        "amount": "$790.21",
+        "purchaseTypes": [
+            "Kids",
+            "Beauty",
+            "Clothing",
+            "Kids",
+            "Baby"
+        ]
+    }
+}, {
+    "id": 15,
+    "userInfo": {
+        "id": 15,
+        "username": "asnellinge"
+    },
+    "paymentInfo": {
+        "creditCard": "4844060054159047",
+        "creditCardType": "visa-electron",
+        "amount": "$763.90",
+        "purchaseTypes": [
+            "Books",
+            "Automotive",
+            "Movies",
+            "Baby",
+            "Sports"
+        ]
+    }
+}, {
+    "id": 16,
+    "userInfo": {
+        "id": 16,
+        "username": "kraisonf"
+    },
+    "paymentInfo": {
+        "creditCard": "3569811576348483",
+        "creditCardType": "jcb",
+        "amount": "$707.11",
+        "purchaseTypes": [
+            "Tools",
+            "Music",
+            "Health",
+            "Garden",
+            "Home"
+        ]
+    }
+}, {
+    "id": 17,
+    "userInfo": {
+        "id": 17,
+        "username": "kcleevesg"
+    },
+    "paymentInfo": {
+        "creditCard": "4913089027614669",
+        "creditCardType": "visa-electron",
+        "amount": "$416.86",
+        "purchaseTypes": [
+            "Health",
+            "Toys",
+            "Home",
+            "Beauty",
+            "Tools"
+        ]
+    }
+}, {
+    "id": 18,
+    "userInfo": {
+        "id": 18,
+        "username": "mheadsh"
+    },
+    "paymentInfo": {
+        "creditCard": "30113230652153",
+        "creditCardType": "diners-club-carte-blanche",
+        "amount": "$211.53",
+        "purchaseTypes": [
+            "Shoes",
+            "Computers",
+            "Sports",
+            "Automotive",
+            "Clothing"
+        ]
+    }
+}, {
+    "id": 19,
+    "userInfo": {
+        "id": 19,
+        "username": "csheehani"
+    },
+    "paymentInfo": {
+        "creditCard": "5602213130220213",
+        "creditCardType": "bankcard",
+        "amount": "$520.58",
+        "purchaseTypes": [
+            "Outdoors",
+            "Kids",
+            "Tools",
+            "Electronics",
+            "Industrial"
+        ]
+    }
+}, {
+    "id": 20,
+    "userInfo": {
+        "id": 20,
+        "username": "dglynnj"
+    },
+    "paymentInfo": {
+        "creditCard": "4026952025565346",
+        "creditCardType": "visa-electron",
+        "amount": "$450.35",
+        "purchaseTypes": [
+            "Electronics",
+            "Tools",
+            "Kids",
+            "Health",
+            "Garden"
+        ]
+    }
+}]
